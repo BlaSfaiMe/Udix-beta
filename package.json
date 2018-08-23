@@ -16,7 +16,7 @@
   },
   "author": "BlaSfaiMe",
   "license": "ISC"
-  "engines": {
+  "engines" {
     "node": "8.9.4"
   }
 }
